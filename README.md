@@ -4,7 +4,9 @@ http://nomulabo.com/jis-ii-card-spoofer/
 
 /                                                                            
    Name: JIS-II Card Spoofer
+   
    Author: 7m4mon (nomulabo.com)
+   
    Description: This program is a integration of Magspoof and MagCardReader,
                 and modefied for JIS-II Cards. (Japanese domestic cards)
                 Additional Functions:
