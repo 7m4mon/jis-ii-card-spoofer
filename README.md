@@ -13,6 +13,7 @@ This program is a integration of Magspoof and MagCardReader,
 
 and modefied for JIS-II Cards. (Japanese domestic cards)
 
+
 Additional Functions:
 
 10 cards infomation save/load to internal EEPROM.
@@ -22,6 +23,7 @@ Parity and LRC check for MagCardReader.
 Display card infomation to OLED(128x32).
 
 License: MIT
+
 
  
 Special Thanks:
