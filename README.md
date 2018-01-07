@@ -3,6 +3,8 @@
 http://nomulabo.com/jis-ii-card-spoofer/
 
 
+![jis-ii-card-spoofer](https://github.com/7m4mon/jis-ii-card-spoofer/raw/master/jis-ii-card-spoofer.jpg "jis-ii-card-spoofer")
+
 Name: JIS-II Card Spoofer
 
 Author: 7m4mon (nomulabo.com)
